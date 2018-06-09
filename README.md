@@ -1,0 +1,2 @@
+# jueves082
+Mitgitignore
